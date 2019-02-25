@@ -1,0 +1,12 @@
+{
+  "name": "closet-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/andrebautista/closet.git",
+  "author": "andre bautista",
+  "license": "Private",
+  "private": true,
+  "dependencies": {
+    "serverless": "^1.38.0"
+  }
+}
